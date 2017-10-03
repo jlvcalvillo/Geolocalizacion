@@ -9,6 +9,9 @@
           "lon": -96.744385
         }
       },
+      "icon": {
+        "url": "https://github.com/jlvcalvillo/Geolocalizacion/blob/master/barco.jpg"
+      },
       "id": 1,
       "text": {
         "title": "This is a basic POI"
