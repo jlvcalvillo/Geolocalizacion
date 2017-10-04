@@ -1,0 +1,52 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.078327,
+          "lon": -96.742362
+        }
+      },
+      "icon": {
+        "url": ""
+      },
+      "id": 1,
+      "text": {
+        "title": "Bancomer"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.071354,
+          "lon": -96.738156
+        }
+      },
+      "icon": {
+        "url": ""
+      },
+      "id": 2,
+      "text": {
+        "title": "Santander"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.063299,
+          "lon": -96.726195
+        }
+      },
+      "icon": {
+        "url": ""
+      },
+      "id": 3,
+      "text": {
+        "title": "Banamex"
+      }
+    },
+  ],
+  "layer": ""
+}
